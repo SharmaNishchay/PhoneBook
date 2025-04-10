@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="21.0.2" class="java.beans.XMLDecoder">
+ <object class="java.util.TreeMap">
+  <void method="put">
+   <string>B</string>
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="PhoneBook$Contact">
+      <void property="address">
+       <string>7th Jane Street, New York</string>
+      </void>
+      <void property="homePhone">
+       <string>+1 932-212-2212</string>
+      </void>
+      <void property="name">
+       <string>Brian Lara</string>
+      </void>
+      <void property="primaryEmail">
+       <string>larabrian@gmail.com</string>
+      </void>
+      <void property="secondaryEmail">
+       <string>brianwi@gmail.com</string>
+      </void>
+      <void property="workPhone">
+       <string>+1 809-223-1122</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>D</string>
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="PhoneBook$Contact">
+      <void property="address">
+       <string>89th Avenue, Washington D.C.</string>
+      </void>
+      <void property="homePhone">
+       <string>+1 772-223-4322</string>
+      </void>
+      <void property="name">
+       <string>Donald J Trump</string>
+      </void>
+      <void property="primaryEmail">
+       <string>donaldjtrump@gmail.com</string>
+      </void>
+      <void property="secondaryEmail">
+       <string>NA</string>
+      </void>
+      <void property="workPhone">
+       <string>+1 609-231-1200</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>M</string>
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void method="put">
+   <string>R</string>
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="PhoneBook$Contact">
+      <void property="address">
+       <string>33rd Avenue, New Jersey</string>
+      </void>
+      <void property="homePhone">
+       <string>+1 922-232-1822</string>
+      </void>
+      <void property="name">
+       <string>Ricky Ponting</string>
+      </void>
+      <void property="primaryEmail">
+       <string>rickpunter@gmail.com</string>
+      </void>
+      <void property="secondaryEmail">
+       <string>ponting.rick@gmail.com</string>
+      </void>
+      <void property="workPhone">
+       <string>+1 921-121-2221</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>S</string>
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="PhoneBook$Contact">
+      <void property="address">
+       <string>49th New Park Lane, Nashville</string>
+      </void>
+      <void property="homePhone">
+       <string>+1 863-112-1121</string>
+      </void>
+      <void property="name">
+       <string>Steve Smith</string>
+      </void>
+      <void property="primaryEmail">
+       <string>spdsmith.cricketau@gmail.com</string>
+      </void>
+      <void property="secondaryEmail">
+       <string>spdsmith@gmail.com</string>
+      </void>
+      <void property="workPhone">
+       <string>+1 709-149-0049</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
